@@ -60,9 +60,7 @@ int main() {
     scanf("%d", &turistico2);
 
     float densipopu1, PIBCap1, densipopu2, PIBCap2; 
-    //Densidade populacional = População / Área. 
-    //PIB per capita = PIB / População.
-
+    
     densipopu1 = populacao1 / area1;
     PIBCap1 = pib1 / populacao1;
     densipopu2 = populacao2 / area2;
